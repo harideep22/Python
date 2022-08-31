@@ -2,16 +2,21 @@
 Subscription pack is a python program
 streaming packs
 Music streaming subscription plans 
-      FREE	                    PERSONAL	                              PREMIUM
-  1 month Trial	          Rs.100 for 1 month	                     Rs. 250 for 3 months
+                     
+                            FREE	                PERSONAL	                           PREMIUM
+                      1 month Trial	          Rs.100 for 1 month	                     Rs. 250 for 3 months
   
   Video streaming subscription plans 
-       FREE	                  PERSONAL	                                PREMIUM
- 1 month Trial	          Rs.200 for 1 month	                     Rs. 500 for 3 months
+  
+  
+                            FREE	                PERSONAL	                          PREMIUM
+                      1 month Trial	          Rs.200 for 1 month	                     Rs. 500 for 3 months
  
  Podcast streaming subscription plans 
-        FREE	                 PERSONAL	                               PREMIUM
- 1 month Trial	          Rs.100 for 1 month	                     Rs. 300 for 3 months
+ 
+ 
+                           FREE	               PERSONAL	                               PREMIUM
+                      1 month Trial	          Rs.100 for 1 month	                     Rs. 300 for 3 months
  
  
  users to add a top up to increase the number of devices that they can stream to for an additional cost.
